@@ -1,0 +1,1 @@
+alert("Hallo Welt !");				// alert( ); oder console.log( );
